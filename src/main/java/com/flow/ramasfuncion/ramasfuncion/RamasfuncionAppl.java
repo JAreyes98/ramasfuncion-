@@ -4,12 +4,13 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RamasfuncionApplication {
+public class RamasfuncionAppl {
 
 	//
 	public static void main(String[] args) {
 	//<<>>
-		SpringApplication.run(RamasfuncionApplication.class, args);
+		SpringApplication.run(RamasfuncionAppl.class, //
+				args);
 	}
 
 }
