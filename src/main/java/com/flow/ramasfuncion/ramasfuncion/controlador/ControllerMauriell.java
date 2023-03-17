@@ -9,6 +9,6 @@ public class ControllerMauriell {
 
     @GetMapping("/ruta")
     public String getMensaje() {
-        return "MENSAJE DE MAURIELL";
+        return "MENSAJE DE MAURIELL DOS";
     }
 }

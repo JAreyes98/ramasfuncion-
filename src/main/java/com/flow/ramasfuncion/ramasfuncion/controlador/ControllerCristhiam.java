@@ -8,7 +8,7 @@ public class ControllerCristhiam {
 
     @GetMapping("/Cris")
     public String getMensaje() {
-        return "HOLA MUNDO";
+        return "HOLA MUNDO dos";
     }
 
 }

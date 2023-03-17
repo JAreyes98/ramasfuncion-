@@ -10,7 +10,7 @@ public class ControllerAlejandro {
 
     @GetMapping("/alejandro")
     public String getMensaje() {
-        return "mensaje Alejandro";
+        return "mensaje Alejandro dos";
     }
 
 }
